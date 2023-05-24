@@ -12,5 +12,4 @@
 
 关闭混合：
 
-![Uploading image.png…]()
-
+![image](https://github.com/UestcXiye/OpenGL_Blending/assets/58623498/cd8b1a02-2387-4b8e-bbb4-2e9a79ae7bfa)
